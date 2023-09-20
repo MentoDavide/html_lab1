@@ -1,0 +1,31 @@
+html, body, h1, h2, h3, p, ol, li, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font-family:Arial;
+    text-decoration:none;
+}
+.nav :hover{
+    color: black;
+    background-color: rgb(255, 126, 126);
+    
+}
+.nav li{
+    display: inline;
+    background-color: rgb(255, 255, 255);
+    border-radius:  4px;
+    margin: -1px;
+}
+
+/*ul li{
+    display: inline;
+    /*background-color: rgb(255, 208, 0);
+    border-radius:  4px;
+    margin: -1px;
+    
+}
+*/
+
+body{
+    background-color: rgb(68, 207, 207)
+}
