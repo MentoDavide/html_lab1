@@ -5,20 +5,16 @@ html, body, h1, h2, h3, p, ol, li, a {
     font-family:Arial;
     text-decoration:none;
 }
+
+label, input{
+    display: block;
+}
 .nav :hover{
     color: black;
     background-color: rgb(255, 126, 126);
+    border-radius: 4px...........
     
-}
-.nav li{
-    display: inline;
-    background-color: rgb(255, 255, 255);
-    border-radius:  4px;
-    margin: -1px;
-}
 
-/*ul li{
-    display: inline;
     /*background-color: rgb(255, 208, 0);
     border-radius:  4px;
     margin: -1px;
